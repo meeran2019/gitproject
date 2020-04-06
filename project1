@@ -1,0 +1,11 @@
+GIT Tutorial:
+
+Workspace -> Staging -> Local repository
+
+1. git init -> initialize the git to create the git project.
+2. git status -> to check the status of project.
+3. git add project-name -> used to add project to stage library.
+4. git add . -> used to add all projects under folder to stage library.
+
+
+this is project 1
